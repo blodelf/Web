@@ -1,0 +1,31 @@
+.button:hover{
+  background-color: #a19d91;
+}
+.rooms div:hover{
+    background-color: #204b91;
+}
+
+.dark_theme_main{
+    background-color: #515050 !important;
+}
+.dark_theme_best{
+  background-color: #737272 !important;
+}
+.dark_theme_game{
+  background-color: #73788e !important;
+}
+.dark_rooms_div{
+    background-color: #56503f !important;
+}
+.special_theme_main{
+    background-color: #f003f8 !important;
+}
+.special_theme_game{
+  background-color: #f8032c !important;
+}
+.special_theme_best{
+    background-color: #01ff3c !important;
+}
+.special_rooms_div{
+    background-color: #7627c7 !important;
+}

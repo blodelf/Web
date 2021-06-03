@@ -1,0 +1,108 @@
+{"mainElements":[
+    {"name":"BMW 5 Series 2019","price":59400,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/bmw_5-series__722455-1920x1080x90.webp","description": [
+        ["Engine", "2.0 l (190 h.p. • 140.0 kW) Diesel fuel"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "5.4 l"],
+        ["Generation", "G30"]
+    ]},
+    {"name":"BMW 6 Series GT 2019","price":87121,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/bmw_6-series-gt__672817-1920x1080x90.webp","description":[
+        ["Engine", "3.0 l (340 h.p. • 250.0 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "11.1 l"],
+        ["Generation", "G32"]
+    ]},
+    {"name":"BMW X7 M50i Steptronic","price":150000,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/bmw_x7__757140-1920x1080x90.webp","description":[
+        ["Engine", "4.4 l (530 h.p. • 400.0 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "11.4 l"],
+        ["Generation", "G07"]
+    ]},
+    {"name":"BMW X1 2019","price":38065,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/bmw_x1__720441-1920x1080x90.webp","description":[
+       ["Engine", "2.0 l (150 h.p. • 110.0 kW) Diesel fuel"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Front-wheel drive"],
+        ["Fuel consumption, 100 km", "5.3 l"],
+        ["Generation", "F48 (restyling)"]
+    ]},
+    {"name":"BMW iX3 2021","price":82547,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/bmw_ix3__730834-1920x1080x90.webp","description":[
+        ["Engine", " (286 h.p. • 210.3 kW)  Electricity"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "no information"],
+        ["Generation", "1st generation"]
+    ]},
+    {"name":"Acura RDX 2020","price":76500,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/acura_rdx__685728-1920x1080x90.webp","description":[
+        ["Engine", "2.0 l (272 h.p. • 200.0 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "11.2 l"],
+        ["Generation", "3rd generation"]
+    ]},
+    {"name":"Ferrari F12 2020","price":462000,"src": "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/ferrari_f12__236854-1920x1080x90.webp","description":[
+        ["Engine", "6.3 l (740 h.p. • 544.1 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Front-wheel drive"],
+        ["Fuel consumption, 100 km", "15 l"],
+        ["Generation", "1st generation"]
+    ]},
+    {"name":"Ferrari 812 Superfast 2020","price":543707,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/ferrari_812-superfast__802393-1920x1080x90.webp","description":[
+        ["Engine", "6.5 l (800 h.p. • 588.2 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Rear drive"],
+        ["Fuel consumption, 100 km", "14.9 l"],
+        ["Generation", "1st generation"]
+    ]},
+    {"name":"Ferrari 488 GTB 2020","price":380560,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/ferrari_488-gtb__537391-1920x1080x90.webp","description":[
+        ["Engine", "3.9 l (670 h.p. • 492.6 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Rear drive"],
+        ["Fuel consumption, 100 km", "11.4 l"],
+        ["Generation", "1st generation"]
+    ]},
+    {"name":"Lamborghini Urus 2019","price":379691,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/lamborghini_urus__496844-1920x1080x90.webp","description":[
+        ["Engine", "4.0 l (650 h.p. • 477.9 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "12.7 l"],
+        ["Generation", "1st generation"]
+    ]},
+    {"name":"Lamborghini Aventador 2020","price":598079,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/lamborghini_aventador__833230-1920x1080x90.webp","description":[
+        ["Engine", "6.5 l (700 h.p. • 514.7 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "24.7 l"],
+        ["Generation", "LB834"]
+    ]},
+    {"name":"Mercedes-Benz C-Class 2018","price":70000,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mercedes-benz_c-class__789586-1920x1080x90.webp","description":[
+        ["Engine", "4.0 l (476 h.p. • 350.0 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Rear drive"],
+        ["Fuel consumption, 100 km", "13.4 l"],
+        ["Generation", "W205 (restyling)"]
+    ]},
+    {"name":"Mercedes-Benz G-Class 2020","price":199999,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mercedes-benz_g-class__685513-1920x1080x90.webp","description":[
+        ["Engine", "3.0 l (340 h.p. • 250.0 kW) Diesel fuel"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Four-wheel drive"],
+        ["Fuel consumption, 100 km", "no information"],
+        ["Generation", "W464"]
+    ]},
+    {"name":"Mercedes-Benz Actros 2020","price":114244,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mercedes-benz_actros__829439-1920x1080x90.webp","description": [
+        ["Engine", "12.8 l (449 h.p. • 330.0 kW) Diesel fuel"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Rear drive"],
+        ["Fuel consumption, 100 km", "no information"],
+        ["Generation", "MP4"]
+    ]},
+    {"name":"Aston Martin Vulcan 2021","price":4450000,"src":"https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/aston-martin_vulcan__454064-1920x1080x90.webp","description":[
+        ["Engine", "7.0 l (812 h.p. • 597.1 kW) Gasoline"],
+        ["Transmission", "Automaton"],
+        ["Drive unit", "Rear drive"],
+        ["Fuel consumption, 100 km", "no information"],
+        ["Generation", "1st generation"]
+    ]}]}
+    
+
