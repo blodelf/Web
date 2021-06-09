@@ -1,0 +1,207 @@
+@media screen and (max-width: 1199px) {
+    .main, .carousel, .subscribe, .footer-wrapper{
+        height:500px;
+    }
+    .button{
+        font-size: 10pt;
+    }
+    section.about-us h2{
+        font-size: 30pt;
+    }
+    section.about-us h3{
+        font-size: 18pt;
+    }
+    section.about-us h5{
+        font-size: 15pt;
+
+    }
+    div.icons div p{
+        font-size: 15pt;
+    }
+    .sp{
+        font-size: 24pt;
+        display: table-caption;
+        margin-left: 50px;
+    }
+    div.icons{
+        margin-bottom: 50px;
+
+    }
+    .text-about{
+        margin-bottom: 50px ;
+    }
+    input.textarea::placeholder{
+        font-size: 12pt;
+    }
+    .tagline{
+        font-size: 24pt;
+    }
+    div.book-lovers h3{
+        font-size: 20pt;
+    }
+    div.book-lovers p {
+        font-size: 10pt;
+    }
+    label {
+        font-size: 12pt;
+    }
+    div.footer h3{
+        font-size: 18pt;
+    }
+    div.footer form label{
+        font-size: 12pt;
+    }
+    .theme{
+        height: 25px;
+        margin-bottom: 25px;
+    }
+    .letter{
+        height: 100px;
+    }
+    .icons img{
+        height: 100px;
+    }
+    div.content img{
+        height: 50px;
+    }
+    div.content .lease{
+        font-size: 30pt;
+        margin-bottom: 35px;
+    }
+    label{
+
+        font-size: 20pt;
+        margin-bottom: 10px;
+    }
+    .textarea{
+        width: 220px;
+        height: 35px;
+        padding: 5px 10px;
+        font-size: 13pt;
+    }
+    .form button.button{
+        width: 160px;
+        height: 35px;
+    }
+    }
+
+@media screen and (max-width: 576px) {
+    .main, .carousel{
+        height:200px;
+    }
+    .subscribe{
+        height: 300px;
+    }
+    .footer-wrapper{
+        height: 300px;
+    }
+    .header{
+        height: 50px;
+    }
+    .content-wrapper{
+        margin: 0 auto;
+    }
+    .content-wrapper img{
+        height: 25px;
+    }
+    .content-wrapper .button{
+        width: 110px;
+        height: 25px;
+    }
+    .tagline{
+        font-size: 10pt;
+        height: 90px;
+    }
+    div.book-lovers{
+        font-family: Arial, serif;
+        padding-left: 5px;
+    }
+    div.book-lovers h3{
+
+        font-size: 10pt;
+    }
+    div.book-lovers p {
+
+        font-size: 7pt;
+    }
+    div.content img{
+        height: 25px;
+    }
+    div.content .lease{
+        font-size: 20pt;
+        margin-bottom: 35px;
+    }
+    div.content form{
+        display: flex;
+        flex-direction: column;
+    }
+    label{
+        color: white;
+        font-size: 15pt;
+        margin-bottom: 10px;
+    }
+    .textarea{
+        height: 35px;
+        width: 50%;
+    }
+    div.content form button{
+        width: 110px;
+        height: 25px;
+    }
+    section.about-us h2{
+        font-size: 15pt;
+    }
+    section.about-us h3{
+        font-size: 9pt;
+    }
+    section.about-us h5{
+        font-size: 8pt;
+    }
+    div.icons div p{
+        font-size: 8pt;
+    }
+    div.icons{
+        width: 375px;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .block{
+        margin: auto;
+        width: 20%;
+    }
+    .icons img{
+        height: 150px;
+    }
+    .sp {
+        font-size: 12pt;
+        margin-left: 25px;
+    }
+    div.footer h3{
+        font-size: 12pt;
+    }
+    div.footer form label{
+        font-size: 10pt;
+    }
+    .theme{
+        height: 17px;
+        width: 40%;
+        margin-bottom: 25px;
+    }
+    .letter{
+        width: 60%;
+        height: 50px;
+    }
+    .bit button{
+        width: 110px;
+        height: 25px;
+        margin-top: 13px;
+    }
+    footer.footer-wrapper {
+        background-image: url("img/footer.png");
+        background-size: cover;
+        background-color: #efefef;
+    }
+    footer.footer-wrapper img{
+    display: none;
+    }
+}

@@ -1,0 +1,218 @@
+*{
+    box-sizing: border-box;
+}
+body, html{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+}
+.main{
+    width: 100%;
+    background-image: url("img/header_back.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+}
+
+.header{
+    width: 100%;
+    height: 120px;
+    background-color: #ffffff;
+}
+.content-wrapper{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.button{
+    background-color: #f69321;
+    width: 220px;
+    height: 50px;
+    color: white;
+    font-size: 20pt;
+    text-align: center;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+.button:hover{
+    background-color: red;
+    cursor: pointer;
+}
+.tagline{
+    display: flex;
+    background-color: rgba(0,0,0,0.1);
+    width: 50%;
+    height: 220px;
+    font-size: 48pt;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin:auto;
+}
+.carousel{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.carousel img{
+    width: 50%;
+    object-fit: cover;
+}
+.book-lovers{
+    margin: auto;
+    padding:0 20px;
+
+}
+div.book-lovers h3{
+    font-size: 40pt;
+}
+div.book-lovers p{
+    font-size: 20pt;
+    color: grey;
+}
+.subscribe{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 930px;
+    background-image: url("img/subscribe.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    background-position: center;
+}
+.content{
+    margin-top: 40px;
+
+}
+.lease{
+    font-size: 40pt;
+    color: white;
+    margin-bottom: 70px;
+}
+label{
+    color: white;
+    font-size: 24pt;
+    margin-bottom: 20px;
+}
+.textarea{
+    border: 1px solid white;
+    height: 50px;
+    width: 320px;
+    background-color: rgba(255,255,255,0.1);
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 18pt;
+
+}
+.textarea::placeholder{
+    color: white;
+}
+.about-us{
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text-about{
+    text-align: center;
+    width: 70%;
+    margin-bottom: 100px;
+
+}
+section.about-us h2{
+    font-size: 60pt;
+}
+section.about-us h3{
+    font-size: 36pt;
+    color: grey;
+}
+section.about-us h5{
+    font-size: 30pt;
+    color: grey;
+}
+.icons{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+
+
+}
+.block{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    width: 20%;
+}
+div.icons div p{
+   color:grey;
+    font-size: 30pt;
+    text-align: center;
+}
+.sp{
+   font-size: 48pt;
+    font-weight: bold;
+    color: black;
+}
+div.icons{
+    margin-bottom: 200px;
+}
+.footer-wrapper {
+    width: 100%;
+    background-color: #efefef;
+    display: flex;
+    flex-direction: row;
+    background-image: url("img/footer.png");
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.footer{
+    padding-left: 40px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 50px;
+}
+div.footer h3{
+    font-size: 36pt;
+    font-weight: lighter;
+}
+div.footer form{
+    display: flex;
+    flex-direction: column;
+}
+.theme{
+    border: 1px solid black;
+    height: 50px;
+    width:40%;
+    margin-bottom: 50px;
+}
+div.footer form label{
+    display: block;
+    font-size: 24pt;
+    color: black;
+}
+.letter{
+    border: 1px solid black;
+    height: 240px;
+    width: 50%;
+}
+.bit button{
+    margin-top: 25px;
+}
